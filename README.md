@@ -2,10 +2,10 @@
 
 ## Date: 29-08-2026
 **Today's Work:**
-Completed Day 2 class problems (Vowel & Consonant Counter, CSV Student Record Parser, File Extension Validator, Masked Phone Number Formatter, Bank Transaction Reference Generator & Validator).
+Completed Day 2 assignment problems (ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer & Validator, Stop-Word-Filtered Word Frequency Report).
 
 **Next Session Plan:**
-Complete Day 2 assignment problems.
+Move on to Week 3 sessions.
 
 **Issues Faced:**
 - None
