@@ -2,10 +2,10 @@
 
 ## Date: 29-08-2026
 **Today's Work:**
-Completed Day 2 assignment problems (ATM PIN Length Validator, Word Reversal Encoder, Product Inventory CSV Parser, Library ISBN Normalizer & Validator, Stop-Word-Filtered Word Frequency Report).
+Completed Day 3 class problems (PlacementRecord, MessWallet, Course, IdCard, Student).
 
 **Next Session Plan:**
-Move on to Week 3 sessions.
+Move on to Day 3 assignment problems.
 
 **Issues Faced:**
 - None
