@@ -2,10 +2,10 @@
 
 ## Date: 12-09-2026
 **Today's Work:**
-Completed Day 5 class problems (AccessChecker, SubclassAccessChecker, CineScreen, MovieBookingProfile, BookingReceiptSystem).
+Completed Day 5 assignment problems (AccessChecker, ReferenceDeskAccess, BookInventory, LibraryMemberBean, CirculationLedger).
 
 **Next Session Plan:**
-Complete Day 5 assignment problems.
+Move on to Week 6 session.
 
 **Issues Faced:**
 - None
