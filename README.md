@@ -57,3 +57,13 @@ Move on to Week 6 session.
 
 **Issues Faced:**
 - None
+
+---
+
+## Date: 18-09-2026
+**Today's Work:**
+Completed Session 6 Class Problems (Q1-Q5) and Assignment Problems (Q1-Q5) covering Java inheritance, polymorphism, static utilities, defensive copying, and error handling.
+**Next Session Plan:**
+Move on to Session 7 coursework and topics.
+**Issues Faced:**
+- Minor syntax issues 
